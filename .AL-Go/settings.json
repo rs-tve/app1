@@ -3,5 +3,8 @@
     "appFolders":  [
     ],
     "testFolders":  [
+    ],
+    "installApps": [
+        "App1/.alPackages/NovaVision Software A_S_PrintVis_20.2.2.0.app"
     ]
 }
