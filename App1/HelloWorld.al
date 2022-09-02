@@ -6,6 +6,14 @@ pageextension 50000 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Hallo grapjassen!');
+        Message('Hallo grapjassen!');
+    end;
+}
+
+pageextension 50001 CaseCardExt extends "PVS Case Card"
+{
+    trigger OnOpenPage();
+    begin
+        Message('Hallo Visprinters!');
     end;
 }
