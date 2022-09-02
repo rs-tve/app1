@@ -7,3 +7,7 @@ rad.json
 .alcache/
 .altemplates/
 cache_*
+
+#include these files
+!**/NovaVision*.app
+
