@@ -8,5 +8,5 @@
         "App1/.alPackages/NovaVision Software A_S_PrintVis System Library_20.2.2.0.app",
         "App1/.alPackages/NovaVision Software A_S_PrintVis_20.2.2.0.app"
     ],
-    "licenseFileUrlSecretName": "RAINBOWLICENSEBC20"
+    "licenseFileUrlSecretName": "https://github.com/organizations/RainbowCrossmedia/settings/secrets/actions/RAINBOWLICENSEBC20"
 }
