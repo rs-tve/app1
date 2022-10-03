@@ -11,13 +11,27 @@
     "url":  "",
     "logo":  "",
     "screenshots":  [],
-    "platform":  "19.0.0.0",
-    "application":  "19.0.0.0",
+    "platform":  "20.0.0.0",
+    "application":  "20.0.0.0",
+    "dependencies":  [
+        {
+            "id": "a1775e0b-ae52-43ed-9eb9-8e23a6214831",
+            "name": "PrintVis System Library",
+            "publisher": "NovaVision Software AS",
+            "version": "20.2.2.0"
+        },
+        {
+            "id": "5452f323-059e-499a-9753-5d2c07eef904",
+            "name": "PrintVis",
+            "publisher": "NovaVision Software AS",
+            "version": "20.2.2.0"
+        }      
+    ],
     "idRanges":  [
-                     {
-                         "from":  50000,
-                         "to":  50999
-                     }
+        {
+            "from":  50000,
+            "to":  50999
+        }
     ],
     "resourceExposurePolicy":  
     {
