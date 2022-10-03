@@ -1,11 +1,12 @@
 {
+    "installOnlyReferencedApps": false,
     "country":  "us",
     "appFolders":  [
     ],
     "testFolders":  [
     ],
     "installApps": [
-        "App1/.alPackages/NovaVision Software AS_PrintVis System Library_20.2.2.0.app",
-        "App1/.alPackages/NovaVision Software AS_PrintVis_20.2.2.0.app"
+        "https://keyvaults.blob.core.windows.net/appfiles/Novavision/NovaVision%20Software%20AS_PrintVis%20System%20Library_20.2.2.0.app",
+        "https://keyvaults.blob.core.windows.net/appfiles/Novavision/NovaVision%20Software%20AS_PrintVis_20.2.2.0.app"
     ]
 }
