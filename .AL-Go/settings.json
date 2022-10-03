@@ -6,7 +6,7 @@
     "testFolders":  [
     ],
     "installApps": [
-        "https://keyvaults.blob.core.windows.net/appfiles/Novavision/NovaVision%20Software%20AS_PrintVis%20System%20Library_20.2.2.0.app",
-        "https://keyvaults.blob.core.windows.net/appfiles/Novavision/NovaVision%20Software%20AS_PrintVis_20.2.2.0.app"
+        "https://keyvaults.blob.core.windows.net/appfiles/Novavision/NovaVision%20Software%20AS_PrintVis%20System%20Library_20.2.2.0.app?sp=r&st=2022-10-03T18:30:42Z&se=2032-12-30T23:00:00Z&spr=https&sv=2021-06-08&sr=b&sig=yDKVRYjPdyE%2FeApHQFyDSHyjeX4AVRDL8t%2Bu2COaq0w%3D",
+        "https://keyvaults.blob.core.windows.net/appfiles/Novavision/NovaVision%20Software%20AS_PrintVis_20.2.2.0.app?sp=r&st=2022-10-03T18:37:49Z&se=2032-12-31T03:37:49Z&spr=https&sv=2021-06-08&sr=b&sig=DaqzBiSslrW%2FKFgy3kIS5nH0nL8bS42lV3wRwyQOvoA%3D"
     ]
 }
